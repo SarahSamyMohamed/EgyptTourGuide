@@ -1,6 +1,240 @@
 <resources>
     <string name="app_name">Egypt Tour Guide</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--cities names-->
+    <string name="cairo">Cairo</string>
+    <string name="new_cairo">New Cairo</string>
+    <string name="cairo_to_aswan">Cairo to Aswan</string>
+    <string name="giza">Giza</string>
+    <string name="alexandria">Alexandria</string>
+    <string name="luxor">Luxor</string>
+    <string name="aswan">Aswan</string>
+    <string name="sinai">Sinai</string>
+    <string name="south_sinai">South Sinai</string>
+    <string name="sohag">Sohag</string>
+    <string name="sharm_al_shiekh">Sharm Al Shiekh</string>
+    <string name="the_western_desert">The Western Desert</string>
+    <string name="red_sea">Red Sea</string>
+    <string name="matrouh">Matrouh</string>
+    <string name="hurghada">Hurghada</string>
+
+    <!--HistoricalSitesFragment-->
+    <string name="pyramids">Pyramids</string>
+    <string name="pyramids_details">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. As of November 2008,
+        sources cite either 118 or 138 as the number of identified Egyptian pyramids. Most were built as tombs for the country\'s pharaohs
+        and their consorts during the Old and Middle Kingdom periods. The earliest known Egyptian pyramids are found at Saqqara,
+        northwest of Memphis. The earliest among these is the Pyramid of Djoser, which was built c. 2630–2610 BC during the Third Dynasty.
+        This pyramid and its surrounding complex were designed by the architect Imhotep, and are generally considered to be the world\'s
+        oldest monumental structures constructed of dressed masonry. The most famous Egyptian pyramids are those found at Giza,
+        on the outskirts of Cairo. Several of the Giza pyramids are counted among the largest structures ever built.
+        The Pyramid of Khufu at Giza is the largest Egyptian pyramid. It is the only one of the Seven Wonders of the Ancient World still in existence. </string>
+
+    <string name="karnak_temple">Karnak Temple and The Valley of The Kings</string>
+    <string name="karnak_temple_details">The Karnak Temple Complex, commonly known as Karnak
+        from Arabic Khurnak meaning \"fortified village\"), comprises a vast mix of decayed temples, chapels, pylons,
+        and other buildings near Luxor, in Egypt. Construction at the complex began during the reign of Senusret
+        I in the Middle Kingdom and continued into the Ptolemaic period, although most of the extant buildings date from the New Kingdom.
+        The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\")
+        and the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as its head.
+        It is part of the monumental city of Thebes. The Karnak complex gives its name to the nearby, and partly surrounded,
+        modern village of El-Karnak, 2.5 kilometres (1.6 miles) north of Luxor.</string>
+
+    <string name="abu_simbel">Abu Simbel Temples</string>
+    <string name="abu_simbel_details">The Abu Simbel temples are two massive rock temples at Abu Simbel (Arabic: أبو سمبل‎),
+        a village in Aswan Governorate, Upper Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser,
+        about 230 km (140 mi) southwest of Aswan (about 300 km (190 mi) by road). The complex is part of the UNESCO World Heritage Site
+        known as the \"Nubian Monuments\", which run from Abu Simbel downriver to Philae (near Aswan). The twin temples were originally
+        carved out of the mountainside in the 13th century BC, during the 19th dynasty reign of the Pharaoh Ramesses II.
+        They serve as a lasting monument to the king and his queen Nefertari, and commemorate his victory at the Battle of Kadesh.
+        Their huge external rock relief figures have become iconic.The complex was relocated in its entirety in 1968 under
+        the supervision of a Polish archaeologist, Kazimierz Michałowski, on an artificial hill made from a domed structure,
+        high above the Aswan High Dam reservoir. The relocation of the temples was necessary or they would have been submerged during
+        the creation of Lake Nasser, the massive artificial water reservoir formed after the building of the Aswan High Dam on the River Nile.</string>
+
+    <string name="egyptian_museum">Egyptian Museum</string>
+    <string name="egyptian_museum_details">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo,
+        in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items,
+        with a representative amount on display, the remainder in storerooms. Built in 1901 by the Italian construction company Garozzo-Zaffarani
+        to a design by the French architect Marcel Dourgnon, the edifice is one of the largest museums in the region. As of March 2019,
+        the museum is open to the public. In 2020 the museum is due to be superseded by the new Grand Egyptian Museum at Giza.</string>
+
+    <string name="catherine_monastery">Catherine\'s Monastery</string>
+    <string name="catherine_monastery_details">Saint Catherine\'s Monastery (Arabic: دير القدّيسة كاترين‎)
+        officially \"Sacred Monastery of the God-Trodden Mount Sinai\", lies on the Sinai Peninsula,
+        at the mouth of a gorge at the foot of Mount Sinai, near the town of Saint Catherine, Egypt. The monastery is named after Catherine of Alexandria.
+        The monastery is controlled by the autonomous Church of Sinai, part of the wider Greek Orthodox Church, and is a UNESCO World Heritage Site.
+        Built between 548 and 565, the monastery is one of the oldest working Christian monasteries in the world.The site contains the world\'s oldest
+        continually operating library, possessing many unique books including the Syriac Sinaiticus and, until 1859, the Codex Sinaiticus.</string>
+
+    <string name="abydos_temple">Abydos Temple</string>
+    <string name="abydos_temple_details">Abydos (Arabic: ) is one of the oldest cities of ancient Egypt,
+        and also of the eighth nome in Upper Egypt. It is located about 11 kilometres (6.8 miles) west of the Nile at latitude 26° 10\' N,
+        near the modern Egyptian towns of el-\'Araba el Madfuna and al-Balyana. In the ancient Egyptian language, the city was called Abdju.
+        The English name Abydos comes from the Greek Ἄβυδος, a name borrowed by Greek geographers from the unrelated city of
+        Abydos on the Hellespont. Amy, Flinders Petrie\'s sister-in-law, buying antiquities at Abydos, c. 1899
+        Considered one of the most important archaeological sites in Egypt, the sacred city of Abydos was the site of many ancient temples,
+        including Umm el-Qa\'ab, a royal necropolis where early pharaohs were entombed. These tombs began to be seen as extremely significant
+        burials and in later times it became desirable to be buried in the area, leading to the growth of the town\'s importance as a cult site.
+        Today, Abydos is notable for the memorial temple of Seti I, which contains an inscription from the nineteenth dynasty known to the modern world as the Abydos King List.
+        It is a chronological list showing cartouches of most dynastic pharaohs of Egypt from Menes until Seti I\'s father, Ramesses I.
+        The Great Temple and most of the ancient town are buried under the modern buildings to the north of the Seti temple. Many of the original
+        structures and the artifacts within them are considered irretrievable and lost; many may have been destroyed by the new construction.</string>
+
+    <string name="saqqara_pyramid">Saqqara Pyramid</string>
+    <string name="saqqara_pyramid_details">The Pyramid of Djoser (or Djeser and Zoser), or Step Pyramid (kbhw-ntrw in Egyptian) is an archeological
+        remain in the Saqqara necropolis, Egypt, northwest of the city of Memphis. The 6-tier, 4-sided structure is the earliest colossal stone building in Egypt.
+         It was built in the 27th century BC during the Third Dynasty for the burial of Pharaoh Djoser by his vizier,
+        Imhotep. The pyramid is the central feature of a vast mortuary complex in an enormous courtyard surrounded by ceremonial structures and decoration.
+        The pyramid went though several revisions and redevelopments of the original plan. The pyramid originally stood 62.5 metres (205 ft) tall,
+        with a base of 109 m × 121 m (358 ft × 397 ft) and was clad in polished white limestone. The step pyramid (or proto-pyramid) is considered
+        to be the earliest large-scale cut stone construction, although the nearby enclosure of Gisr el-Mudir predates the complex, and the South American pyramids
+        at Caral are contemporary.</string>
+
+    <!--RestaurantsAndCafesFragment-->
+    <string name="karam_elshaam">karam Elshaam</string>
+    <string name="karam_elshaam_details">Syrian restaurant \nCuisine: fast food, middle eastern and sandwiches \nSpecialties: Serves breakfast, lunch and dinner \nServices: Delivery,
+        Outdoor Seating, Take Out.</string>
+
+    <string name="farsha">Farsha Cafe</string>
+    <string name="farsha_details">Take the time to stop and feel the breeze.</string>
+
+    <string name="zahret_demshq">Zahret Demshq</string>
+    <string name="zahret_demshq_details">Syrian restaurant.</string>
+
+    <!--AttractionsFragment-->
+    <string name="islamic_cairo">Islamic Cairo</string>
+    <string name="islamic_cairo_details">Islamic Cairo (Arabic: قاهرة المعز‎, meaning: Al-Mu\'izz\'s Cairo) is a part of central Cairo around the old walled city and
+        around the Citadel of Cairo which is characterized by hundreds of mosques, tombs, madrasas, mansions, caravanserais, and fortifications dating from
+        the Islamic era. In 1979, the United Nations Educational, Scientific and Cultural Organization (UNESCO) proclaimed Historic Cairo a World Cultural
+        Heritage site, as \"one of the world\'s oldest Islamic cities, with its famous mosques, madrasas, hammams and fountains\" and \"the new centre of the Islamic world,
+        reaching its golden age in the 14th century."</string>
+
+    <string name="the_nile_cruising">The Nile Cruising</string>
+    <string name="the_nile_cruising_details">Egypt is defined by the Nile. For many visitors a multi-day cruise upon this famed waterway that saw
+        the rise of the Pharaonic era is a highlight of their Egypt trip. Cruising the Nile is also the most relaxing way to see the temples
+        that stud the banks of the river on the route between Luxor and Aswan, plus sunrise and sunset over the date-palm-studded river banks,
+        backed by sand dunes, is one of Egypt\'s most tranquil vistas.The two famous sights on a Nile Cruise are the Temple of Kom Ombo and
+        Edfu\'s Temple of Horus, where all the big cruise boats stop. If you\'d prefer a less crowded and slower experience though, and don\'t
+        mind \"roughing it\" a bit, you can also cruise the Nile by felucca (Egypt\'s traditional lateen-sailed wooden boats), which also allows you to
+        create your own itinerary. Cruise boats depart from both Luxor and Aswan, but feluccas can only be chartered for multi-day trips from Aswan.</string>
+
+    <string name="white_desert">White Desert</string>
+    <string name="white_desert_details">A main geographic attraction of Farafra is its White Desert (known as Sahara el Beyda, with the word sahara meaning a desert)
+        — a national park of Egypt and 45 km (28 mi) north of the town of Farafra, the main draw of which is its rock type colored from snow-white to cream.
+        It has massive chalk rock formations that are textbook examples of ventifact and which have been created as a result of occasional sandstorm in the area.
+        The White Desert is a typical place visited by some schools in Egypt, as a location for camping trips. The desert was also the featured location in the music
+        video accompanying the piece Echoes in the 2008–2011 album by the Klaxons.</string>
+
+    <string name="siwa_oasis">Siwa Oasis</string>
+    <string name="siwa_oasis_details">The Siwa Oasis (Arabic: واحة سيوة‎) is an urban oasis in Egypt between the Qattara Depression and the Great Sand Sea in
+        the Western Desert, 50 km (30 mi) east of the Libyan border, and 560 km (348 mi) from Cairo. About 80 km (50 mi) in length and 20 km (12 mi) wide,
+        Siwa Oasis is one of Egypt\'s most isolated settlements with about 33,000 people, mostly Berbers, who developed a unique culture and a distinct
+        language of the Berber family called Siwi. Its fame lies primarily in its ancient role as the home to an oracle of Ammon, the ruins of which are a
+        popular tourist attraction which gave the oasis its ancient name Oasis of Amun Ra. Historically, it was part of Ancient Egypt.</string>
+
+    <string name="bibliotheca_alexandria">Bibliotheca Alexandrina</string>
+    <string name="bibliotheca_alexandria_details">The Great Library of Alexandria in Alexandria, Egypt, was one of the largest and most significant libraries
+        of the ancient world. The Library was part of a larger research institution called the Mouseion, which was dedicated to the Muses, the nine
+        goddesses of the arts. The idea of a universal library in Alexandria may have been proposed by Demetrius of Phalerum, an exiled Athenian
+        statesman living in Alexandria, to Ptolemy I Soter, who may have established plans for the Library, but the Library itself was probably not built
+        until the reign of his son Ptolemy II Philadelphus. The Library quickly acquired many papyrus scrolls, due largely to the Ptolemaic kings\'
+        aggressive and well-funded policies for procuring texts. It is unknown precisely how many such scrolls were housed at any given time, but estimates
+        range from 40,000 to 400,000 at its height. Alexandria came to be regarded as the capital of knowledge and learning, in part because of the Great
+        Library. Many important and influential scholars worked at the Library during the third and second centuries BC, including, among many others:
+        Zenodotus of Ephesus, who worked towards standardizing the texts of the Homeric poems; Callimachus, who wrote the Pinakes, sometimes considered to
+        be the world\'s first library catalogue; Apollonius of Rhodes, who composed the epic poem the Argonautica; Eratosthenes of Cyrene, who calculated
+        the circumference of the earth within a few hundred kilometers of accuracy; Aristophanes of Byzantium, who invented the system of Greek diacritics
+        and was the first to divide poetic texts into lines; and Aristarchus of Samothrace, who produced the definitive texts of the Homeric poems as well
+        as extensive commentaries on them. During the reign of Ptolemy III Euergetes, a daughter library was established in the Serapeum, a temple to the
+        Greco-Egyptian god Serapis. Despite the widespread modern belief that the Library was burned once and cataclysmically destroyed, the Library actually
+        declined gradually over the course of several centuries, starting with the purging of intellectuals from Alexandria in 145 BC during the reign of
+        Ptolemy VIII Physcon, which resulted in Aristarchus of Samothrace, the head librarian, resigning from his position and exiling himself to Cyprus.
+        Many other scholars, including Dionysius Thrax and Apollodorus of Athens, fled to other cities, where they continued teaching and conducting scholarship.
+        The Library, or part of its collection, was accidentally burned by Julius Caesar during his civil war in 48 BC, but it is unclear how much was actually
+        destroyed and it seems to have either survived or been rebuilt shortly thereafter; the geographer Strabo mentions having visited the Mouseion in
+        around 20 BC and the prodigious scholarly output of Didymus Chalcenterus in Alexandria from this period indicates that he had access to at least some
+        of the Library\'s resources. The Library dwindled during the Roman Period, due to lack of funding and support. Its membership appears to have ceased
+        by the 260s AD. Between 270 and 275 AD, the city of Alexandria saw a rebellion and an imperial counterattack that probably destroyed whatever remained
+        of the Library, if it still existed at that time. The daughter library of the Serapeum may have survived after the main Library\'s destruction. The
+        Serapeum was vandalized and demolished in 391 AD under a decree issued by Coptic Christian Pope Theophilus of Alexandria, but it does not seem to have
+        housed books at the time and was mainly used as a gathering place for Neoplatonist philosophers following the teachings of Iamblichus.</string>
+
+    <string name="dahab">Dahab</string>
+    <string name="dahab_details">Dahab (Egyptian Arabic: دهب‎, \"gold\") is a small town on the southeast coast of the Sinai Peninsula in Egypt, approximately
+        80 km (50 mi) northeast of Sharm el-Sheikh. Formerly a Bedouin fishing village, Dahab is now considered to be one of Sinai\'s most treasured diving
+        destinations. Following the Six-Day War, Sinai was occupied by Israel and Dahab became known as Di-Zahav, after a place mentioned in
+        the Bible as one of the stations for the Israelites during the Exodus from Egypt. The Sinai Peninsula was restored to Egyptian rule under the Egypt–Israel
+        Peace Treaty in 1982. The arrival of international hotel chains and the establishment of other ancillary facilities has since made the town a popular
+        destination with tourists. Dahab is served by Sharm el-Sheikh International Airport. Masbat (within Dahab) is a popular diving destination, and there are
+        many (50+) dive centers located within Dahab. Most of Dahab\'s diving spots are shore dives. Dahab can be divided into three major parts. Masbat, which
+        includes the Bedouin village Asalah, is in the north. South of Masbat is Mashraba, which is more touristic and has considerably more hotels. In the
+        southwest is Medina which includes the Laguna area, famous for its excellent shallow-water windsurfing. The region of Asalah is quite developed and has
+        many camps and hostels. Most people who have visited Dahab in the past were backpackers interested in diving and snorkeling in the Red Sea.</string>
+
+    <!--HotelsFragment-->
+    <string name="caves_beach_resort">Caves Beach Resort</string>
+    <string name="caves_beach_resort_details">On beachfront grounds along the Red Sea, this quirky all-inclusive resort in a prehistoric-style complex is 10 km from
+        the Hurghada Marine Museum \&amp; Aquarium, and 27 km from Hurghada International Airport. Cozy, cave-style rooms come with TVs, minibars and Internet access
+        (fee), plus tea and coffeemakers. All have patios; some feature sea views. Upgraded rooms add living areas and direct pool access. Room service is
+        available 24/7. There are 2 restaurants and 6 bars (including poolside and beach options). Other amenities consist of 3 outdoor pools, sports courts
+        and a gym, plus entertainment, a spa and diving. Guests age 16 and over are welcome.</string>
+
+    <string name="al_alamein_hotel">Al Alamein Hotel</string>
+    <string name="al_alamein_hotel_details">Set on sprawling landscaped grounds along a beach facing the Mediterranean Sea, this laid-back hotel is 40 km from
+        El Alamein International Airport. Relaxed rooms come with flat-screens, minibars, and balconies or terraces; some offer sea views. Suites have pull-out
+        sofas. Upgraded suites include kitchens, while 3- to 6-bedroom villas add direct beach access. Breakfast is complimentary. There are 2 restaurants,
+        including open-air and beachfront eateries, plus a bar. Other amenities include a billiards room and an outdoor pool. Activities such as kitesurfing,
+        beach volleyball and tennis are available.</string>
+
+    <string name="windsor_palace_hotel">Windsor Palace Hotel</string>
+    <string name="windsor_palace_hotel_details">Dating from 1906, this polished hotel overlooks a waterfront promenade. It\'s a 6-minute walk from the Alexandria
+        National Museum and 2 km from the modernist Library of Alexandria. The antiques-filled rooms feature gilded walls and hand-decorated high ceilings,
+        as well as free Wi-Fi and flat-screen TVs; most have private balconies with Mediterranean Sea views. Upgraded rooms include living areas, while
+        suites add stately living rooms, and art from the hotel\'s collection. Complimentary breakfast is served on a rooftop terrace. A restaurant adorned
+        with frescoes serves high-end cuisine. There\'s also a cafe with a terrace, which serves light fare.</string>
+
+    <string name="steigenberger_aqua_magic_hotel">Steigenberger Aqua Magic Hotel</string>
+    <string name="steigenberger_aqua_magic_hotel_details">A 6-minute walk from the beach, this polished resort is also 6 km from Hurghada Grand Aquarium and 13 km
+        from downtown Hurghada. Airy rooms and suites include free Wi-Fi, flat-screens, safes and minifridges, as well as balconies or terraces. Suites add
+        living areas and separate kids\' rooms. Breakfast and parking are complimentary. There are 7 restaurants (including noodle and sushi bars), 3 bars and
+        an open-air market, as well as beach access and a water park. Other amenities consist of 5 outdoor pools, 2 kids\' pools, and 2 rooftop adult-only pools
+        with a butler service, an exercise room, a dive center and a 9-hole golf course.</string>
+
+    <string name="four_seasons_hotel">Four Seasons Hotel</string>
+    <string name="four_seasons_hotel_details">Offering views of the Mediterranean, this luxury hotel is a 10-minute walk from the Royal Jewelry Museum and 9 km
+        from the Library of Alexandria. The Lighthouse of Alexandria is 12 km away. Elegant rooms and suites with chic decor provide flat-screen TVs,
+        free Wi-Fi and minibars, as well as marble bathrooms and balconies with panoramic views of the city or the sea. The suites add living rooms and
+        dining areas. Room service is offered 24/7. Amenities include 4 refined restaurants, 3 sleek bars and a low-key cafe, plus a private beach, an
+        outdoor pool and squash courts. Massages are offered in a lavish spa with an indoor pool and a fitness room.</string>
+
+    <!--MallsFragment-->
+    <string name="concord_plaza_mall">Concord Plaza Mall</string>
+    <string name="concord_plaza_mall_details">Concord Plaza offers a wide range of retail, commercial arenas, sports center as well as medical, financial and telecom
+        services. Centrally located in the heart of New Cairo, in the middle of 90th street, it has a wide stretch of commodities spread over 400m of length
+        where every activity has a direct access to an open area and a wide view to the 90th street area. Concord Plaza serves the whole population of the 5th
+        district, AUC. population and the Rehab area. Its unique architectural design and the variety of tenants, enhace the feeling of quality, convenience
+        and easiness of enjoying Concord Plaza.</string>
+
+    <string name="cairo_festival_city_mall">Cairo Festival City Mall</string>
+    <string name="cairo_festival_city_mall_details">At the heart of Cairo Festival City sits Cairo Festival City Mall, a super-regional shopping mall with 160,000
+        sq. m gross leasable area (GLA). It features over 300 shops and services and 95 restaurants and cafes anchored by a 10,755 sq. m hypermarket and
+        furniture flagship store, two department stores, all served by over 6,500 parking spaces. The outdoor area of CFCM, The Village, brings to the forefront
+        over 50 cafés and restaurants. Relax over a leisurely meal while enjoying the spectacular Dancing Fountain show and live performances at the Amphitheater.
+        Spanning a land area of over 3 million sq. m (700 acres), Cairo Festival City is a visionary mixed-use urban community strategically located at the gateway
+        to New Cairo city. Cairo Festival City sets new standards as Egypt\’s premier indoor-outdoor shopping, dining and entertainment destination, providing
+        spectacular residential villas and luxurious apartments, as well as prime office spaces, together with internationally renowned hotels, international schools
+        and automotive showrooms all set within a beautifully landscaped and tranquil community. Combining a relaxing lifestyle and picturesque landscapes, the
+        many parks, gardens, walkways and plazas bring together the districts to enhance and foster gatherings for family and friends as an addition to Cairo Festival
+        City amenities. A truly distinctive lifestyle experience where meticulous attention to detail is obvious and all elements of the project are seamlessly
+        interconnected.</string>
+
+    <string name="san_stefano_grand_plaza">San Stefano Grand Plaza</string>
+    <string name="san_stefano_grand_plaza_details">Shop the San Stefano way With absolute distinction Residents can also enjoy access to a luxurious shopping experience
+        with its shopping mall designed according to the highest international standards over a 43,000 m2 and distributed over four floors accommodating 180
+        retail shops of the finest international brand names, equipped to satisfy the most discerning shopper. With a separate entrance, elevators and escalators,
+        this shopping center is no ordinary mall. The San Stefano Grand Plaza shopping mall is a vibrant shopping destination over four levels of retail shops
+        surrounded by spacious plazas. It\'s the ideal setting for an eclectic mix of retailers and fine fare, with a sumptuous food court offering a variety of
+        restaurants located on the lower ground floor boasting a wide variety of food, allowing the whole family to enjoy diverse cuisines at the same time. The
+        mall\’s children\’s recreational area, 10 movie theaters and valet parking all under one roof set in one of the city\’s most elegant neighbourhoods, make the
+        San Stefano mall a truly exceptional shopping experience.</string>
 </resources>
