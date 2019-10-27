@@ -63,5 +63,4 @@ public class Location implements Parcelable {
         dest.writeString(mSubTitle);
         dest.writeString(mLocationDetails);
     }
-
 }
